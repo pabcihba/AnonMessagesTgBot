@@ -6,3 +6,5 @@ Telegram бот анонимных сообщений с функций расс
 - /stats - вывод "статистики"
 # Команда для админа
 - /broadcast [текст] - выведет текст всем пользователям бота
+# Как установить?
+git clone https://github.com/pabcihha/AnonMessagesTgBot; cd AnonMessagesTgBot; python anon.py
